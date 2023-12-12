@@ -1,7 +1,7 @@
 /* The color system, using variables */
 :root {
     --fore-color-primary:  white!important;
-    --bg-color-primary:  #20295b!important;
+    --bg-color-primary:  #2d58a7!important;
 
     --fore-color-medium:  white!important;
     --bg-color-medium:  #3f51b5!important;
@@ -9,13 +9,13 @@
     --fore-color-light:  black!important;
     --bg-color-light:  #f3f4fb!important;
 
-    --text-color-primary: #20295b!important;
+    --text-color-primary: #2d58a7!important;
     --text-color-medium:  #3f51b5!important;
 
     --fore-color-secondary:  #04FF00!important;
-    --bg-color-secondary:  #102a3a!important;
+    --bg-color-secondary:  #2d58a7!important;
 
-    --border-color-primary: #20295b!important;
+    --border-color-primary: #2d58a7!important;
     --border-color-medium: #3f51b5!important;
 }
 
